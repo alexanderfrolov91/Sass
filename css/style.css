@@ -1,0 +1,42 @@
+* {
+  margin: auto;
+}
+
+html, body {
+  color: #000;
+  background-color: #fff;
+}
+
+div {
+  font-size: 10px;
+}
+div p {
+  color: blue;
+}
+div p a {
+  text-decoration: none;
+}
+
+div {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 12px;
+}
+
+body {
+  text-transform: uppercase;
+}
+
+div {
+  width: 25px;
+  height: 15px;
+}
+
+p {
+  width: 100px;
+}
+
+/*# sourceMappingURL=style.css.map */
